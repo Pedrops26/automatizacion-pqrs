@@ -1,0 +1,5 @@
+Recomendaciones para Cypress:
+
+-Version 13.5.1
+-Para correr las pruebas primero se necesita correr el servidor
+-Entrar a E2E Testing
